@@ -3,7 +3,7 @@ package main;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class GubbHangGame {
+public class Testing {
 
 	private static Scanner _input = new Scanner(System.in);
 	private static ArrayList<String> _wordlist = new ArrayList();
